@@ -1,0 +1,9 @@
+[submodule "level_01/libft_42"]
+	path = level_01/libft_42
+	url = git@github.com:Thomerlin/libft_42.git
+[submodule "level_01/get_next_line_42"]
+	path = level_01/get_next_line_42
+	url = git@github.com:Thomerlin/get_next_line_42.git
+[submodule "level_01/printf_42"]
+	path = level_01/printf_42
+	url = git@github.com:Thomerlin/printf_42.git
