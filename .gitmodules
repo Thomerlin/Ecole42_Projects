@@ -10,3 +10,15 @@
 [submodule "level_00/basecamp_42SP"]
 	path = level_00/basecamp_42SP
 	url = https://github.com/Thomerlin/basecamp_42SP.git
+[submodule "level_02/7-push_swap_42"]
+	path = level_02/7-push_swap_42
+	url = git@github.com:Thomerlin/7-push_swap_42.git
+[submodule "level_01/4-born2beroot_42"]
+	path = level_01/4-born2beroot_42
+	url = git@github.com:Thomerlin/4-born2beroot_42.git
+[submodule "level_01/5-so_long_42"]
+	path = level_01/5-so_long_42
+	url = git@github.com:Thomerlin/5-so_long_42.git
+[submodule "level_01/6-minitalk_42"]
+	path = level_01/6-minitalk_42
+	url = git@github.com:Thomerlin/6-minitalk_42.git
