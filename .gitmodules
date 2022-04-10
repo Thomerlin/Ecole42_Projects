@@ -1,9 +1,12 @@
-[submodule "level_01/libft_42"]
-	path = level_01/libft_42
-	url = git@github.com:Thomerlin/libft_42.git
-[submodule "level_01/get_next_line_42"]
-	path = level_01/get_next_line_42
-	url = git@github.com:Thomerlin/get_next_line_42.git
-[submodule "level_01/printf_42"]
-	path = level_01/printf_42
-	url = git@github.com:Thomerlin/printf_42.git
+[submodule "level_01/3-printf_42"]
+	path = level_01/3-printf_42
+	url = https://github.com/Thomerlin/3-printf_42.git
+[submodule "level_01/2-get_next_line_42"]
+	path = level_01/2-get_next_line_42
+	url = https://github.com/Thomerlin/2-get_next_line_42.git
+[submodule "level_01/1-libft_42"]
+	path = level_01/1-libft_42
+	url = https://github.com/Thomerlin/1-libft_42.git
+[submodule "level_00/basecamp_42SP"]
+	path = level_00/basecamp_42SP
+	url = https://github.com/Thomerlin/basecamp_42SP.git
